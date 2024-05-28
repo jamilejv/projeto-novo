@@ -1,0 +1,55 @@
+.container{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+    flex-wrap: wrap;
+}
+#item1{
+    border: solid 1px blue;
+    height:20%;
+    width: 100%;
+    display: flex;
+}
+#elemento1{
+    border: solid 1px black;
+    height: 100%;
+    width: 25%;
+}
+#elemento2{
+    border: solid 1px black;
+    height: 100%;
+    width: 25%;
+}
+#elemento3{
+    border: solid 1px black;
+    height: 100%;
+    width: 25%;
+}
+#elemento4{
+    border: solid 1px black;
+    height: 100%;
+    width: 25%;
+}
+
+#item2{
+    border: solid 1px blue;
+    height:20%;
+    width: 100%;
+}
+
+#item3{
+    border: solid 1px blue;
+    height:20%;
+    width: 100%;
+}
+#item4{
+    border: solid 1px blue;
+    height:20%;
+    width: 100%;
+}
+#item5{
+    border: solid 1px blue;
+    height:20%;
+    width: 100%;
+}

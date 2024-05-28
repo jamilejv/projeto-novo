@@ -1,0 +1,1 @@
+alert ("corinthians bicampeão mundial")
