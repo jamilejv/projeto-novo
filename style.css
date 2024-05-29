@@ -36,6 +36,7 @@
     border: solid 1px blue;
     height:20%;
     width: 100%;
+    display: flex;
 }
 
 #item3{
@@ -52,4 +53,62 @@
     border: solid 1px blue;
     height:20%;
     width: 100%;
+}
+#resultadoSoma{
+    background-color: #1100ff;
+    color: white;
+}
+
+#resultadoSubtracao{
+    background-color: #0008ff;
+    color: white;
+}
+
+#resultadoMultiplicacao{
+    background-color: #1e00ff;
+    color: white;
+}
+
+#resultadoDivisao{
+    background-color: #0008ff;
+    color: white;
+}
+#resultadoSoma{
+    background-color: #0008ff;
+    color: white;
+}
+
+#resultadoSubtracao{
+    background-color: #3300ff;
+    color: white;
+}
+
+#resultadoMultiplicacao{
+    background-color: #2200ff;
+    color: white;
+}
+
+#resultadoDivisao{
+    background-color: #1100ff;
+    color: white;
+}
+
+#resultadoConversao{
+    background-color: #1100ff;
+    color: white;
+}
+
+#resultadoConversao1{
+    background-color: #1e00ff;
+    color: white;
+}
+
+#areaRe{
+    background-color: #2600ff;
+    color: white;
+}
+
+#areaCircu{
+    background-color: #0000ff;
+    color: white;
 }
